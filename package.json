@@ -9,10 +9,13 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@unlock-protocol/networks": "^0.0.19",
     "@unlock-protocol/unlock-js": "^0.40.3",
     "next": "14.0.4",
     "react": "^18",
-    "react-dom": "^18"
+    "react-dom": "^18",
+    "viem": "^2.0.0",
+    "wagmi": "^1.4.13"
   },
   "devDependencies": {
     "@types/node": "^20",
